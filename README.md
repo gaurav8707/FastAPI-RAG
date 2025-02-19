@@ -58,6 +58,10 @@ uvicorn main:app --host 127.0.0.1 --port 9000 --reload
 📂 **Multi-Document Support** - Upload multiple documents and search instantly  
 
 ---
+# FastAPI Working Demo
+
+📽️ **Watch the Demo Video:** [Click here](https://youtu.be/zHR87trQVzU)
+
 
 ## 🎯 Contributing  
 Want to improve FastAPI-RAG? Fork the repo, create a branch, and submit a PR!  
